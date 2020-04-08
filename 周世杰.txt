@@ -1,0 +1,48 @@
+git status
+git add index.txt
+git add .
+git status
+git commit -m "git测试"
+git status
+git push origin master:master
+git pull origin master
+git log
+git branch
+git branch add
+git branch
+git status
+git add .
+git commit -m '添加数据'
+git branch
+git checkout master
+git branch
+git checkout add
+git checkout master
+git branch
+git merge add
+git branch
+git branch -d add
+git branch
+git push origin master:master
+git branch query
+git branch update 
+git branch delete
+git branch
+git checkout delete
+git status
+git checkout master
+git status
+git add .
+git commit -m '删除'
+git checkout master
+git merge delete
+git push origin master:master
+
+
+
+
+
+
+
+
+
